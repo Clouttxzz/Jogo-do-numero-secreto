@@ -55,6 +55,7 @@ body::before {
 
 .container__botao:hover {
     background: linear-gradient(#1875E8 33.33%, #1354A5 66.67%, #01080E 100%);
+    scale: 105%;
 }
 
 .container__botao {
